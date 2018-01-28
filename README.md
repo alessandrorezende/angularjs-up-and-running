@@ -1,4 +1,4 @@
-angularjs-up-and-running
+Livro Desenvolvendo com AngularJS - Novatec
 ========================
 
 All the source code for the [AngularJS Up &amp; Running Book for O'Reilly](http://shop.oreilly.com/product/0636920033486.do)
